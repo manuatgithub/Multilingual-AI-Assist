@@ -1,0 +1,9 @@
+SpeechRecognitionService
+pinwin
+pyaudio
+gTTS
+google-generatieve
+python-dotenv
+streamlit
+
+-e .
