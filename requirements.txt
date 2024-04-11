@@ -1,8 +1,8 @@
-SpeechRecognitionService
-pinwin
+SpeechRecognition
+pipwin
 pyaudio
 gTTS
-google-generatieve
+google-generativeai
 python-dotenv
 streamlit
 
